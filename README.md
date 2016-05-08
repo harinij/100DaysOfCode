@@ -4,4 +4,4 @@ Decided to take up this challenge to push myself to continue learning and create
 
 You can read more about it on medium here: https://medium.com/@hmovielabs
 
-Also documenting quick updates and other interesting things here on my website: http://HMovieLabs.com/
+Also you can read about me and other interesting projects on my website: http://HMovieLabs.com/
