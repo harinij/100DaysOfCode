@@ -1,5 +1,6 @@
-DAY 2 - React Router, State and Props
-#100DaysOfCode
+100DaysOfCode Challenge
+
+#DAY 2 - React Router, State and Props
 
 - Continued working on the buildout of React app for github repo search use case.
 - Created multiple react components and configured their interaction using react router.

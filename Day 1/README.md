@@ -1,4 +1,6 @@
-DAY 1 - 100 Days Of Code Challenge
+100DaysOfCode Challenge
+
+#DAY 1 - 100 Days Of Code Challenge
 
 - Installed react, react DOM, babel, webpack with npm. 
 - Learnt how to setup and run my very first React App with a single component of the famous "Hello World".
