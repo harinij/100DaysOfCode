@@ -4,9 +4,9 @@
 
 Day 5 was about bringing it all together and wrapping up the app. Finalized the user profile and repos component by retrieving data from github API using Axios to make promise based HTTP request.
 
-- Introduced HTTP network capability the app using Axios to retrieve github profile info using API.
-- Created a search menu that is fixed to the frame.
-- Wrapped up all components together and the react app is completed!
+- Introduced HTTP network capability to the app using Axios to make github API calls.
+- Wrapped up all components together to allow searching github for bios and repos using axios as well as note taking ability using firebase
+- React App completed
 
 Read more about it on medium here: https://medium.com/@hmovielabs
 
