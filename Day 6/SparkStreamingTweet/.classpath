@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/datanucleus-api-jdo-3.2.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/datanucleus-core-3.2.10.jar"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/datanucleus-rdbms-3.2.9.jar"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/spark-1.6.1-yarn-shuffle.jar"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/spark-assembly-1.6.1-hadoop2.6.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Harini/Desktop/Dev Playground/Spark/lib/spark-examples-1.6.1-hadoop2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
