@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_f800e2b713c828b13680dbb671f61be9deab034f.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_fb2ef908664780f7970a0a2ea2d5306c8ad32f0c.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.25.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5453085bfeee55acfa0235a5dc1477e9126013db">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.25.1_a4c965af696b0d497cad1c617bc3048049e781bd.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.0.1_60b71e9ddd869714173c3dca11c627769f0a2602.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9178570a3a28c95fabd3bc746cd68efe99ad2b47">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.8.1_e578775fef6281dd4db34f100c1b35ad88023974.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.25.1/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="12b559f4bf81fa45adf2235efa0c2fbd9d933f1e">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/infer-annotations-1.5_ef6558ec5088d804ce4e1d1436a794281c9f9b97.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_2a5f3fe7063081651ad10c0ea6bf09ec0e34e36e.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_242ddec72e7f087322db0f0e58021c8bac52ac52.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp-ws/2.5.0/e9753b7dcae5deca92e871c5c759067070b07bc/okhttp-ws-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0e9753b7dcae5deca92e871c5c759067070b07bc">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/okhttp-ws-2.5.0_94c1fb27b737572025dff4485d00d332eedc9d27.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="0d5d69b03cb7d68b81543f6483ed04ccb0e2235b">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp-0.8.1_e9525dbe2afa0e37017b1de9c93f8e3adf113e65.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/okhttp-2.5.0_0de7ae9f4e9e893cb96e9911b0ef3952a548d593.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3836ecca4e31e18ea8fbae8e822d49777b0db4f7">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.8.1_2bb754490923e1a1710bfda2224900cd6cfcb514.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/library-2.4.0_2e895b029afd3db1ee80606d825a44c8da240723.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_c9b7ed419ee0ee3adca548b5fdd2238adabf646a.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_664629feb56059e87a0ac94028a110a5adf4b82e.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4af24c040b21980e0a80a505816c648e36705bd9">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.8.1_aa46fcae74de53283e8b84d3926422bf7e0b2225.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.3/1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14/jackson-core-2.2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1a0113da2cab5f4c216b4e5e7c1dbfaa67087e14">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/jackson-core-2.2.3_febb2d9f7b17021a9b534a8518ab0746e7492965.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/okio-1.6.0_17e3e4b819501de4be07d0c9a6509136a11cea0d.jar" />
+    </item>
+    <item
+        jar="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.8.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="845a5b3a624946b2068963ba656c117fc453701c">
+        <dex dex="/Users/Harini/Desktop/Dev Playground/thegaze/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.8.1_76bd6a0a60777b14928e8f9b8c8dce6b7790b595.jar" />
+    </item>
+
+</items>

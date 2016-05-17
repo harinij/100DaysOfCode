@@ -1,0 +1,70 @@
+PODS:
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - FBSDKCoreKit (4.11.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.11.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.11.0):
+    - FBSDKCoreKit
+  - React (0.25.1):
+    - React/Core (= 0.25.1)
+  - react-native-fbsdkcore (0.1.0):
+    - FBSDKCoreKit
+    - React
+  - react-native-fbsdklogin (0.1.0):
+    - FBSDKCoreKit
+    - FBSDKLoginKit
+    - React
+  - react-native-fbsdkshare (0.1.0):
+    - FBSDKCoreKit
+    - FBSDKShareKit
+    - React
+  - React/Core (0.25.1)
+  - React/RCTImage (0.25.1):
+    - React/Core
+    - React/RCTNetwork
+  - React/RCTNetwork (0.25.1):
+    - React/Core
+  - React/RCTText (0.25.1):
+    - React/Core
+  - React/RCTWebSocket (0.25.1):
+    - React/Core
+
+DEPENDENCIES:
+  - react-native-fbsdkcore (from `../node_modules/react-native-fbsdk/iOS/core`)
+  - react-native-fbsdklogin (from `../node_modules/react-native-fbsdk/iOS/login`)
+  - react-native-fbsdkshare (from `../node_modules/react-native-fbsdk/iOS/share`)
+  - React/Core (from `../node_modules/react-native`)
+  - React/RCTImage (from `../node_modules/react-native`)
+  - React/RCTNetwork (from `../node_modules/react-native`)
+  - React/RCTText (from `../node_modules/react-native`)
+  - React/RCTWebSocket (from `../node_modules/react-native`)
+
+EXTERNAL SOURCES:
+  React:
+    :path: ../node_modules/react-native
+  react-native-fbsdkcore:
+    :path: ../node_modules/react-native-fbsdk/iOS/core
+  react-native-fbsdklogin:
+    :path: ../node_modules/react-native-fbsdk/iOS/login
+  react-native-fbsdkshare:
+    :path: ../node_modules/react-native-fbsdk/iOS/share
+
+SPEC CHECKSUMS:
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  FBSDKCoreKit: 686ac982723a14ec9ddb85e2f81235d7706c891b
+  FBSDKLoginKit: bade9fc78277764149ccc5bfaadbf13c83175c6a
+  FBSDKShareKit: 2d1746144cfc8a9dbbd24997c34ee0471be51b6a
+  React: b35b2b2e07273da1f7266ab2975e0d1033bd913d
+  react-native-fbsdkcore: 4b4f0d94b9d19dc8d21427fbb0fe54180486885c
+  react-native-fbsdklogin: 9857d698accf58ab07039fd39320df9476eb40a6
+  react-native-fbsdkshare: 30022ca3609aa4bfe5daf0a77a7444084e8e7c9f
+
+PODFILE CHECKSUM: 3f61b247ec83ae09a4082aab100822525a1155e1
+
+COCOAPODS: 1.0.0
