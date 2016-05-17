@@ -1,6 +1,6 @@
 100DaysOfCode Challenge
 
-#DAY 10: Using Facebook SDK in React Native App
+#DAY 10: The complete guide to using Facebook SDK in React Native App
 
 Make sure you replace the following in Info.plist in this project before using with your facebook App info
 
