@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script src="jquery.js"></script>
+<script src="core.js"></script>
+<script src="json2.js"></script>
+<script src="popup.js"></script>
+<link href="style.css" rel="stylesheet" type="text/css"/>
+<style>
+  body {overflow: hidden;}
+  #container, #spinner {width:350px;}
+</style>
+</head>
+<body>
+	<div id="spinner" style="display:none">
+		<img src="ajax-loader.gif">
+	</div>
+	<div id="container" class="popup-container">
+		<div id="header">
+			<a id="title" href="http://news.ycombinator.com">Tech News - HackerNews</a>
+		</div>
+		<table id="feed" cellspacing="3" cellpadding="0">
+		</table>
+		
+	</div>
+</body>
+</html>

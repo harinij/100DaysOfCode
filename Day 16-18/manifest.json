@@ -1,0 +1,22 @@
+{
+  "manifest_version": 2,
+  "name": "Tech News",
+  "version": "1.0",
+  "description": "Latest Tech News",
+  "browser_action": {
+    "default_title": "Tech News",
+    "default_icon": "folded-newspaper.png",
+    "default_popup": "popup.html"
+  },
+	"background": {
+    "page": "background.html"
+  },
+	
+  "permissions": [
+    "tabs",
+    "https://news.ycombinator.com/",
+    "http://news.ycombinator.com/",
+    "notifications"
+  ],
+  "content_security_policy": "script-src 'self' 'unsafe-eval' https://news.ycombinator.com; object-src 'self' 'unsafe-eval' https://news.ycombinator.com"
+}
