@@ -1,0 +1,25 @@
+{
+  "name": "MotivBot",
+  "description": "A bot that tweets motivation queries every few hours",
+  "version": "0.0.1",
+  "homepage": "https://github.com/harinij",
+  "main": "quote.js",
+  "dependencies": {
+    "node-restclient": "0.0.1",
+    "twit": "1.1.6",
+    "express": "2.5.9"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "6.2.0",
+    "npm": "3.8.9"
+  },
+  "scripts": {
+     "start": "node quote.js"
+  },
+  "author": {
+    "name": "Harini Janakiraman",
+    "url": "hmovielabs.com"
+  }
+}
