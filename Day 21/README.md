@@ -1,6 +1,6 @@
 100DaysOfCode Challenge
 
-#DAY 21: Motivation Quotes - Twitter Bot
+#DAY 21: Motivational Quotes - Twitter Bot
 
 Requires [node](http://nodejs.org/) and [npm](http://npmjs.org/). 
 
