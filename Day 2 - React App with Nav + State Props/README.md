@@ -6,6 +6,6 @@
 - Created multiple react components and configured their interaction using react router.
 - Setup react state and props for modelling data.
 
-Read more about it on medium here: https://medium.com/@hmovielabs
+Read more about it on medium here: https://medium.com/@harinilabs
 
-About me and other interesting projects on my website: http://HMovieLabs.com/
+About me and other interesting projects on my website: http://HariniLabs.com/
