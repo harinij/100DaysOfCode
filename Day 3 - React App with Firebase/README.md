@@ -10,4 +10,4 @@ Day 3 focus was to add data persistence to the app using ReactFire and Firebase 
 
 Read more about it on medium here: https://medium.com/@harinilabs
 
-About me and other interesting projects on my website: http://HMovieLabs.com/
+About me and other interesting projects on my website: http://HariniLabs.com/
