@@ -1,4 +1,4 @@
-100DaysOfCode Challenge
+# 100DaysOfCode Challenge
 
 #DAY 12:  Random Funny GIFs app - Creating you own Docker image and deploying it on AWS Beanstalk 
 
