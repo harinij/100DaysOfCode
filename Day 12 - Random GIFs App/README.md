@@ -7,4 +7,4 @@
 
 Read more about it on medium here: https://medium.com/@hmovielabs
 
-About me and other interesting projects on my website: http://HMovieLabs.com/
+About me and other interesting projects on my website: http://HariniLabs.com/
