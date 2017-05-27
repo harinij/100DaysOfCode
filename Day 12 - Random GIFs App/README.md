@@ -5,6 +5,6 @@
 - Created a docker image for random funny gifs generator app using Giphy API
 - Successfully deployed the docker image onto AWS Elastic Beanstalk
 
-Read more about it on medium here: https://medium.com/@hmovielabs
+Read more about it on medium here: https://medium.com/@harinilabs
 
 About me and other interesting projects on my website: http://HariniLabs.com/
