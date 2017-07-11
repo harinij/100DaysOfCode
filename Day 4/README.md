@@ -1,4 +1,4 @@
-100DaysOfCode Challenge
+100DaysOfCode Challenge - React App
 
 #DAY 4 -  Validating and Managing State of React Components
 
@@ -8,6 +8,6 @@ Day 4 continue building on the app by adding notes taking component that syncs r
 - Added state management between components
 - Created a component that lets user add notes that are synced to firebase realtime
 
-Read more about it on medium here: https://medium.com/@hmovielabs
+Read more about it on medium here: https://medium.com/@harinilabs
 
-About me and other interesting projects on my website: http://HMovieLabs.com/
+About me and other interesting projects on my website: http://HariniLabs.com/
