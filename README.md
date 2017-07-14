@@ -1,7 +1,7 @@
 100 Days Of Code Challenge
 
-Decided to take up this challenge to push myself to continue learning and create interesting side projects. This would be something other than what I code for my regular work. Will be documenting my progress here for 100 days.
+100 Days of exciting side projects and complete apps. This would be something other than what I code for my regular work to explore interesting tech stack and frameworks. This space will document my progress and code journey.
 
-Read more about it on medium here: https://medium.com/@hmovielabs
+Read more about it on medium here: https://medium.com/@harinilabs
 
-About me and other interesting projects on my website: http://HMovieLabs.com/
+About me and other interesting projects on my website: http://HariniLabs.com/
