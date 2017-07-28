@@ -1,4 +1,4 @@
-100DaysOfCode Challenge
+100DaysOfCode Challenge - React App
 
 #DAY 2 - React Router, State and Props
 
