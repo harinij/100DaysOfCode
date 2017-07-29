@@ -1,4 +1,4 @@
-100DaysOfCode Challenge
+100DaysOfCode Challenge - React App
 
 #DAY 3 -  ReactFire, Firebase for Data Persistence
 
