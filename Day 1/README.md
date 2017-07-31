@@ -1,4 +1,4 @@
-100DaysOfCode Challenge
+100DaysOfCode Challenge - React App
 
 #DAY 1 - 100 Days Of Code Challenge
 
