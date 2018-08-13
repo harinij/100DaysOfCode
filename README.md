@@ -9,4 +9,4 @@ The goal of this project is to create 100 exciting side projects done over 100 d
 
 <b>Twitter: [@HariniLabs](https://twitter.com/HariniLabs)</b> I would love to hear your feedback and comments, feel free to drop by and say Hi!
 
-[Website](http://HariniLabs.com/)
+<b>[Website](http://HariniLabs.com/)</b>
